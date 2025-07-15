@@ -1,2 +1,7 @@
-# serla-handy-paper-holder
-Holder for towel sheets stacks like Serla Handy and Lambi Home Towel
+# Serla Handy paper holder
+
+This is a simple two-part paper holder designed for paper towel stacks like Serla Handy and Lambi Home Towel. It holds the stack vertically and allows you to pull one sheet at a time from the top.
+
+The model consists of two parts. The base holds the paper towel stack in place The lid rests on top of the stack with a central hole for dispensing. The lid provides light downward pressure to keep the stack aligned and should be printed with a dense infill (80+%) for added weight. This helps it stay in place when pulling out a sheet.
+
+This model was designed in [Cadova](https://github.com/tomasf/Cadova), a Swift-based DSL for parametric 3D modeling.
