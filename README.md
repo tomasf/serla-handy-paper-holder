@@ -4,4 +4,4 @@ This is a simple two-part paper holder designed for paper towel stacks like Serl
 
 The model consists of two parts. The base holds the paper towel stack in place The lid rests on top of the stack with a central hole for dispensing. The lid provides light downward pressure to keep the stack aligned and should be printed with a dense infill (80+%) for added weight. This helps it stay in place when pulling out a sheet.
 
-This model was designed in [Cadova](https://github.com/tomasf/Cadova), a Swift-based DSL for parametric 3D modeling.
+This model was designed in [Cadova](https://github.com/tomasf/Cadova), a Swift-based DSL for parametric 3D modeling. Also available on [Printables](https://www.printables.com/model/1355930).
