@@ -9,7 +9,7 @@ await Model("serla-handy-paper-holder") {
 }
 
 struct Holder: Shape3D {
-    let outerSize = Vector3D(219, 112, 155)
+    let outerSize = Vector3D(219, 102, 155)
     let bottomHoleSize = Vector2D(187, 40)
     let wallThickness = 3.0
     let frontTopCornerRadius = 5.0
